@@ -1,0 +1,57 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 17, 2024, 3:27:50 PM
+    Author     : tiend
+*/
+
+#logo {
+    width: 100px;
+    border-radius: 50%;
+}
+
+#slide {
+    width: 100%;
+    
+    
+}
+
+.card .btn {
+    font-size: large;
+    font-style: italic;
+    color: rgb(124, 118, 118);
+    background-color: lightgoldenrodyellow;
+}
+
+.card .btn:hover {
+    background-color: rgb(255, 255, 98);
+}
+
+#look-all {
+    font-size: 22px;
+    font-style: italic;
+    color: rgb(91, 89, 89);
+    border: solid 1px rgb(91, 89, 89);
+    border-radius: 5%;
+    background-color: unset;
+}
+
+#look-all:hover {
+    border: solid 1px;
+    border-radius: 5%;
+    background-color: rgba(239, 159, 133, 0.888);
+    color: white;   
+}
+/*#Cart {
+    border: solid 1px F8f9fa;
+    margin-left: 960px;
+}*/
+#Cart{
+    align-items: center;
+}
+
+/* Responcive for Mobile */
+@media screen and (max-width: 991px) {
+}
